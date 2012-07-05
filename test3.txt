@@ -1,3 +1,5 @@
 this is a text file
 
 it has nothing to do with the experiment
+
+this is a new line to test git diff
