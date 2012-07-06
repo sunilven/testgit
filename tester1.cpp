@@ -4,4 +4,4 @@ void main()
 {
 	cout<<"something";
 }
-	
+//end of program	
